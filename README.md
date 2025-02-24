@@ -1,3 +1,4 @@
+![Screenshot 2025-02-24 094553](https://github.com/user-attachments/assets/9fb2bd52-e942-4304-be45-cbab817578bb)
 # Ask-her-out
 
 <h1 align="center"> AskHerOut.js 🌹</h1>
@@ -13,8 +14,9 @@ To get started with AskHerOut.js, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/koushith/AskHerOut.git
+   git clone https://github.com/Rohit-Dogra/Ask-her-out
    ```
+
 
 2. Open the `index.html` file in your favorite web browser.
 
